@@ -22,6 +22,6 @@
 
 <img align="left" alt="Jira" width="80px" src="https://besthard.ru/wa-data/public/shop/products/00/31/293100/images/48878/48878.750x0.png" title="Jira" />
 
-<img align="left" alt="Qase" width="80px" src="https://besthard.ru/wa-data/public/shop/products/00/31/293100/images/48878/48878.750x0.png](https://media.licdn.com/dms/image/D4D0BAQHe8aNTUPt3TA/company-logo_200_200/0/1689265711152/qaseio_logo?e=2147483647&v=beta&t=ewIT3bcLwCVmjTgRIxjZ_w8mPGI45H-FpX8ITcdkerI" title="Qase" />
+<img align="left" alt="Qase" width="80px" src="https://media.licdn.com/dms/image/D4D0BAQHe8aNTUPt3TA/company-logo_200_200/0/1689265711152/qaseio_logo?e=2147483647&v=beta&t=ewIT3bcLwCVmjTgRIxjZ_w8mPGI45H-FpX8ITcdkerI" title="Qase" />
 
 <img align="left" alt="JavaScript" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript" />
