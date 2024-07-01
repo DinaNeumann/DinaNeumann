@@ -12,4 +12,14 @@
 
 #### Skills
 
+<img align="left" alt="Git" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWhvSo-G7aqN03tD4KigMOQSJPHh2DuZZCQA&s" />
+
 <img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="Git" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAbQJ1smNrIvvMazOCFGA3d2T7aqawCi19Q&s" />
+
+<img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png" />
+
+<img align="left" alt="Git" width="80px" src="https://besthard.ru/wa-data/public/shop/products/00/31/293100/images/48878/48878.750x0.png" />
+
+<img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
