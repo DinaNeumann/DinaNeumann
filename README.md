@@ -4,7 +4,7 @@
 
 #### I am actively looking for a company to create useful products and professional development.
 
-:clipboard: You can read my [CV](https://cv.hexlet.io/ru/account/resumes/4584)
+:clipboard: You can read my [CV](https://samara.hh.ru/applicant/resumes/view?resume=8208d3ffff0d72ba290039ed1f6f7730715148)
 
 :envelope: Contact me at [Gmail](http://neumannidd@gmail.com/) or [Telegram](https://t.me/dina_neumann)  
 
